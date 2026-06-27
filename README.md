@@ -1,5 +1,7 @@
 ## 👋 About Me
 
+[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/maxkezhang)](https://githubroast.icu/u/maxkezhang)
+
 Senior Software Development Engineer at Unity China, working on LLM and AI agent systems, CI/CD infrastructure, automated testing, observability, and developer tooling.
 
 At Unity China, I have worked on infrastructure and quality engineering systems, including CI/CD platforms, automated testing tools, and workflow automation. More recently, my work has focused on LLM-based agents for software engineering workflows, task automation, and Unity-related agentic LLM fine-tuning with methods such as SFT and RL.
@@ -33,3 +35,5 @@ My recent interests focus on AI agents for software engineering, especially agen
 - 2023-present: Senior Software Development Engineer, Unity China
 - 2020-2023: CodeWisdom Research Group, Software Engineering Lab, Fudan University
 - 2016-2020: Muxi Studio, Central China Normal University; lead and backend group leader
+
+
