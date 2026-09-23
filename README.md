@@ -1,6 +1,7 @@
 ## 👋 About Me
 
-[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/maxkezhang)](https://githubroast.icu/u/maxkezhang)
+[![GitHub Followers](https://img.shields.io/github/followers/maxkezhang?style=flat&logo=github&label=Followers)](https://github.com/maxkezhang?tab=followers)
+[![Apache SkyWalking Committer](https://img.shields.io/badge/Apache%20SkyWalking-Committer-6f42c1?logo=apache&logoColor=white)](https://github.com/apache/skywalking)
 
 Senior Software Development Engineer at Unity China, working on LLM and AI agent systems, CI/CD infrastructure, automated testing, observability, and developer tooling.
 
